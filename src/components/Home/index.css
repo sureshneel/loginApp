@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.home-bg {
+  background-color: aliceblue;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.dis-card {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border: 0px none;
+  border-radius: 8px;
+  width: 50%;
+}
+.heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 30px;
+  color: #ffffff;
+  text-align: center;
+}
+.btn {
+  background-color: aliceblue;
+  height: 30px;
+  width: 120px;
+  color: #303150;
+  font-family: 'Roboto';
+  font-size: 12px;
+  text-align: center;
+}
